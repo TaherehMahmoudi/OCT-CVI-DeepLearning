@@ -17,5 +17,9 @@ We used Enhanced-depth imaging optical coherence tomography images from two pati
  
    •	Second dataset is including EDI-HD OCT B-scans from patients with pachychoroid spectrum (here).
 
+# Network
+You can use or define your network in OCT-CVI.py. Two baseline network has been provided in OCT-CVI.py to use for training.
+For each network, a test file has been provided in test folder using saved weights for more simplifications.
+
 
 
