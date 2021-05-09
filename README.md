@@ -13,9 +13,9 @@ The method is detailed in "Automatic Choroid Vascularity Index Calculation in Op
 # Dataset
 We used Enhanced-depth imaging optical coherence tomography images from two patient groups. 
 
- •	First dataset is including Raster OCT B-scans from patients with diabetic retinopathy (here).
+   •	First dataset is including Raster OCT B-scans from patients with diabetic retinopathy (here).
  
- •	Second dataset is including EDI-HD OCT B-scans from patients with pachychoroid spectrum (here).
+   •	Second dataset is including EDI-HD OCT B-scans from patients with pachychoroid spectrum (here).
 
 
 
