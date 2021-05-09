@@ -4,7 +4,9 @@ The method is detailed in "Automatic Choroid Vascularity Index Calculation in Op
 
 # Dependencies
   •	Python 3.7+
+  
   •	Tensorflow 1.15.2
+  
   •	Keras
 
 
