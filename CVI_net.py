@@ -2,7 +2,7 @@
 """
 Created on Sat Jul 17 07:32:18 2021
 Choroid segmentation
-@author: Roya Arian
+@author: Roya Arian, royaarian101@gmail.com
 """
 
 #import  
